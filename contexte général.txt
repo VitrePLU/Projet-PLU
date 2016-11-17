@@ -1,0 +1,5 @@
+Nous développons un projet pour la communauté de Vitré.  Celle-ci a souhaité mettre à jour la technologie permettant de consulter son Plan Local d’Urbanisme sur internet. L’intérêt du projet est de rendre le PLU plus accessible, attrayant mais également intéractif. 
+
+
+Ils désirent dynamiser l’accès aux différentes données relatives au PLU, notamment en mettant en avant les enquêtes territoriales. Il serait ici question d’innover dans le mode de consultation de ces enquêtes, permettre aux personnes prenant parti de pouvoir obtenir rapidement les informations, les questionnements, et la zone référente à l’enquête en cours. 
+Les avis et commentaires pourront ainsi être recueillis directement sur le site.
